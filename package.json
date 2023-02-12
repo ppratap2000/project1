@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ppratap2000/project1-namste-react.git"
+    "url": "git+git@github.com:ppratap2000/project1-namste-react.git"
   },
   "author": "Pranav Pratap",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ppratap2000/project1-namste-react/issues"
   },
-  "homepage": "https://github.com/ppratap2000/project1-namste-react#readme",
-  "devDependencies": {
-    "parcel": "^2.8.3"
-  }
+  "homepage": "https://github.com/ppratap2000/project1-namste-react#readme"
 }
