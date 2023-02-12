@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "this is my first project with Nammste React Course.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppratap2000/project1-namste-react.git"
+  },
+  "author": "Pranav Pratap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppratap2000/project1-namste-react/issues"
+  },
+  "homepage": "https://github.com/ppratap2000/project1-namste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
